@@ -1,0 +1,7 @@
+1. It is a command line interface that allows us to access more parts of the computer than the GUI does.
+2. Hypertext Transfer Protocol(HTTP) powers the internet and Tim Berners-Lee was the person who invented it.
+3. Client: is the user trying to access the interface. 
+    Server: Is where the information is stored to be accessed. 
+    Request: Is how the client communicates to the server what it wants the server to get them.
+    Response: Is what the server sends back to the client wheter it is an error response or what the customer had requested.
+4. Github
